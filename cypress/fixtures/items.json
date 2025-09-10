@@ -1,0 +1,26 @@
+{
+  "polos": [
+    {
+      "id": 1,
+      "ref": "DH4789-00",
+      "name": "Polo Lacoste Tennis x Novak Djokovic On Court",
+      "color": "Noir",
+      "url": "fr/lacoste/homme/vetements/polos/manches-courtes/DH4789-00.html?color=031",
+      "price": 150,
+      "currency": "EUR",
+      "size": "3 - S",
+      "description": "Ce polo est testé, approuvé et porté sur les courts par Novak Djokovic."
+    },
+    {
+      "id": 2,
+      "ref": "L1212-00",
+      "name": "Polo L.12.12 Original classic fit",
+      "color": "Blanc",
+      "url": "fr/lacoste/homme/vetements/polos/manches-courtes/L1212-00.html?color=001",
+      "price": 110,
+      "currency": "EUR",
+      "size": "4 - M",
+      "description": "L’Original L.12.12 est le tout premier polo inventé par René Lacoste en 1933."
+    }
+  ]
+}

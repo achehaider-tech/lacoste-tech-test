@@ -1,0 +1,18 @@
+{
+  "addItemsToCart": {
+    "items": [
+      {
+        "id": 1,
+        "quantity": 1,
+        "expectedPrice": "150,00"
+      },
+      {
+        "id": 2,
+        "quantity": 1,
+        "expectedPrice": "110,00"
+      }
+    ],
+    "expectedTotalItems": 2,
+    "expectedTotalPrice": "260,00"
+  }
+}

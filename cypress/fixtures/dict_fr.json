@@ -1,0 +1,175 @@
+{
+  "homePageTitle": "Polos, chaussures et maroquinerie - Lacoste France",
+  "searchPlaceholder": "Rechercher un produit",
+  "secondaryNavBar": {
+    "storeLocator": "Aller vers le store locator",
+    "contact": "Aide et contact",
+    "myAccount": "Aller vers Mon compte",
+    "wishlist": "Afficher ma liste de souhaits",
+    "cart": "Mon panier"
+  },
+  "mainMenu": {
+    "Men": {
+      "label": "Homme",
+      "subMenu": {
+        "newIn": {
+          "label": "Nouveautés",
+          "items": {
+            "clothing": "Vêtements",
+            "shoes": "Chaussures",
+            "leather": "Sacs & Petite Maroquinerie",
+            "accessories": "Accessoires"
+          }
+        },
+        "clothing": {
+          "label": "Vêtements",
+          "items": {
+            "sweatshirts": "Sweatshirts",
+            "polos": "Polos",
+            "jackets": "Manteaux & Vestes",
+            "tracksuits": "Survêtements",
+            "pullovers": "Pullovers",
+            "tshirts": "T-shirts",
+            "pants": "Pantalons & Shorts",
+            "shirts": "Chemises",
+            "swimwear": "Maillots de Bain",
+            "sports": "Vêtements de Sport",
+            "underwear": "Sous-vêtements & Vêtements d'intérieur"
+          }
+        },
+        "shoes": {
+          "label": "Chaussures",
+          "items": {
+            "sneakers": "Sneakers",
+            "outdoor": "Outdoor",
+            "performance": "Performance",
+            "sandals": "Claquettes & Sandales",
+            "socks": "Chaussettes"
+          }
+        },
+        "accessories": {
+          "label": "Accessoires",
+          "items": {
+            "hats": "Chapeaux & Casquettes",
+            "Beanies": "Bonnets",
+            "scarves": "Echarpes & Gants",
+            "belts": "Ceintures",
+            "watches": "Montres",
+            "jewelry": "Bijoux",
+            "home": "Maison",
+            "sunglasses": "Lunettes de Soleil",
+            "fragrances": "Parfums",
+            "phoneCases": "Coques iPhone",
+            "socks": "Socks"
+          }
+        },
+        "bagsAndLeather": {
+          "label": "Sacs & Petite Maroquinerie",
+          "items": {
+            "bags": "Sacs",
+            "backpacks": "Sacs à Dos",
+            "smallLeatherGoods": "Portefeuilles & Petite Maroquinerie",
+            "bumBags": "Sacs banane",
+            "businessBags": "Sacs business & Ordinateur"
+          }
+        },
+        "sports": {
+          "label": "Sport",
+          "items": {
+            "tennis": "Tennis",
+            "paddel": "Paddle",
+            "golf": "Golf",
+            "training": "Training",
+            "sportsStyle": "Sports Style"
+          }
+        },
+        "underware": {
+          "label": "Sous-vêtements",
+          "items": {
+            "boxers": "Sous-vêtements",
+            "pyjamas": "Pyjamas",
+            "loungewear": "Vêtements d'intérieur"
+          }
+        },
+        "Second": {
+          "label": "Seconde Main"
+        }
+      }
+    },
+    "Women": {
+      "label": "Femme",
+      "subMenu": {
+        "newIn": {
+          "label": "Nouveautés"
+        },
+        "clothing": {
+            "label": "Vêtements"
+        },
+        "shoes": {
+            "label": "Chaussures"
+        },
+        "bagsAndLeather": {
+            "label": "Sacs & Petite Maroquinerie"
+        },
+        "accessories": {
+            "label": "Accessoires"
+        },
+        "sports": {
+            "label": "Sport"
+        },
+        "underware": {
+            "label": "Sous-vêtements"
+        },
+        "second": {
+            "label": "Seconde Main"
+        }
+      }
+    },
+    "Kids": {
+      "label": "Enfant",
+      "subMenu": {
+        "newIn": {
+          "label": "Nouveautés"
+        },
+        "babies": {
+          "label": "Bébés - 0 -24 mois"
+        },
+        "kids": {
+          "label": "Enfants - 2-7 ans"
+        },
+        "teens": {
+          "label": "Adolescents - 8-16 ans"
+        }
+      }
+    },
+    "Discover": {
+      "label": "Découvrez",
+      "subMenu": {
+        "weAreLacoste": {
+          "label": "We are Lacoste"
+        },
+        "trending": {
+          "label": "Now Trending"
+        },
+        "crocoGifts": {
+          "label": "Cadeaux Crocodile"
+        },
+        "getInspired": {
+          "label": "Soyez inspiré"
+        },
+        "sportCollection": {
+          "label": "Sport Collections"
+        },
+        "ourCommitments": {
+          "label": "Nos engagements"
+        },
+        "membersExclusivities": {
+          "label": "Exclusivités Membres"
+        },
+        "second": {
+          "label": "Seconde Main"
+        }
+      }
+    }
+  }
+}

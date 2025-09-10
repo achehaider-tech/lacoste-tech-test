@@ -1,0 +1,139 @@
+{
+  "homePageTitle": "Polos, Clothing & Apparel Online | LACOSTE",
+  "searchPlaceholder": "Find a product",
+  "secondaryNavBar": {
+    "storeLocator": "Go to store locator",
+    "contact": "Customer Service",
+    "myAccount": "Go to my account",
+    "wishlist": "Go to wishlist",
+    "cart": "My shopping bag"
+  },
+  "mainMenu": {
+    "Men": {
+      "label": "Men",
+      "subMenu": {
+        "newIn": {
+          "label": "New In",
+          "items": {
+            "clothing": "Clothing",
+            "shoes": "Shoes",
+            "leather": "Leather Goods",
+            "accessories": "Accessories"
+          }
+        },
+        "clothing": {
+          "label": "Clothing",
+          "items": {
+            "polos": "Polos",
+            "sweaters": "Sweaters & Sweatshirts",
+            "tshirts": "T-shirts",
+            "buttons": "Button Down Shirts",
+            "shorts": "Shorts & Swim",
+            "pants": "Pants & Sweatpants",
+            "jackets": "Jackets & Coats",
+            "matchingSets": "Matching Sets",
+            "underwear": "Underwear & Loungewear",
+            "bigAndTall": "Big & Tall"
+          }
+        },
+        "shoes": {
+          "label": "Shoes",
+          "items": {
+            "sneakers": "Sneakers",
+            "slides": "Slides",
+            "boots": "Boots & Loafers",
+            "performance": "Performance"
+          }
+        },
+        "bagsAndLeather": {
+          "label": "Bags & Leather Goods",
+          "items": {
+            "bags": "Bags",
+            "backpacks": "Backpacks",
+            "smallLeatherGoods": "Small Leather Goods",
+            "belts": "Belts"
+          }
+        },
+        "accessories": {
+          "label": "Accessories",
+          "items": {
+            "hats": "Caps & Hats",
+            "watches": "Watches & Jewelry",
+            "sunglasses": "Sunglasses",
+            "scarves": "Scarves & Gloves",
+            "socks": "Socks",
+            "phoneCases": "Phone Cases"
+          }
+        },
+        "sports": {
+          "label": "Sport",
+          "items": {
+            "tennis": "Tennis",
+            "golf": "Golf",
+            "training": "Training",
+            "lifestyle": "Lifestyle"
+          }
+        },
+        "underware": {
+          "label": "Underwear",
+          "items": {
+            "boxers": "Boxer Briefs",
+            "trunks": "Trunks",
+            "mults": "Multipacks",
+            "undershirts": "Undershirts",
+            "loungewear": "Loungewear & Pajamas"
+          }
+        },
+        "sale": {
+          "label": "Sale",
+          "items": {
+            "polos": "Polos",
+            "sweaters": "Sweaters & Sweatshirts",
+            "tshirts": "T-shirts",
+            "buttons": "Button Down Shirts",
+            "jackets": "Jackets & Coats",
+            "pants": "Pants & Shorts",
+            "underwear": "Underwear",
+            "bags": "Bags and Leather Goods",
+            "accessories": "Accessories"
+          }
+        }
+      }
+    },
+    "Women": {
+      "label": "Women",
+      "subMenu": {
+        "newIn": "New In",
+        "clothing": "Clothing",
+        "shoes": "Shoes",
+        "bagsAndLeather": "Bags & Leather Goods",
+        "accessories": "Accessories",
+        "sports": "Sports",
+        "sale": "Sale"
+      }
+    },
+    "Kids": {
+      "label": "Kids",
+      "subMenu": {
+        "newIn": "New In",
+        "babyKids": "Baby & Kids",
+        "teens": "Teens",
+        "trending": "Now Trending",
+        "sale": "Sale"
+      }
+    },
+    "Sale": {
+      "label": "Sale"
+    },
+    "Discover": {
+      "label": "Discover",
+      "subMenu": {
+        "trending": "Now Trending",
+        "getInspired": "Get Inspired",
+        "sportCollection": "Sports Collections",
+        "ourCommitments": "Our Commitments",
+        "weAreLacoste": "We are Lacoste"
+      }
+    }
+  }
+}

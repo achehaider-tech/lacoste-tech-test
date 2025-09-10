@@ -1,0 +1,22 @@
+name: Chrome headless
+
+on: push
+
+jobs:
+  chrome-headless:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Headless Chrome
+        uses: cypress-io/github-action@v6
+        timeout-minutes: 10
+        with:
+          browser: chrome
+      - name: Upload Cypress screenshots (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4.6.2
+        with:
+          name: cypress-screenshots
+          path: cypress/screenshots/
+          if-no-files-found: ignore

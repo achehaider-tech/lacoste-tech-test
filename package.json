@@ -1,0 +1,16 @@
+{
+  "name": "@techtest/cypress",
+  "version": "1.0.0",
+  "description": "Cypress Frontend tests automation",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run:headless": "cypress run --browser chrome --headless",
+    "cy:run": "cypress run --browser chrome --headed",
+    "cy:run:spec": "cypress run --browser chrome --headless --spec"
+  },
+  "devDependencies": {
+    "cypress": "^15.1.0",
+    "mochawesome": "^7.1.3",
+    "typescript": "^5.9.2"
+  }
+}
